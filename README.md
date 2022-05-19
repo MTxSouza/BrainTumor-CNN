@@ -1,7 +1,5 @@
 
 # Project
-#### BrainTumor:
-CNN model.
 
 #### CNN-TumorDetector.ipynb:
 The notebook i used to create my CNN.
