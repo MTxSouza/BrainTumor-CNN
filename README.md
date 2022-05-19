@@ -1,1 +1,10 @@
 
+# Project
+#### BrainTumor:
+CNN model.
+
+#### CNN-TumorDetector.ipynb:
+The notebook i used to create my CNN.
+
+#### cnn-BrainTumorPrediction.png:
+Preview of it's predictions.
